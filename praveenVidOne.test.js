@@ -11,7 +11,7 @@ describe('Longest Common Prefix Function', () => {
     });
 
     test('finds the longest common prefix in ["interspecies", "interstellar", "interstate"]', () => {
-        expect(longestCommonPrefix(["interspecies", "interstellar", "interstate"])).toBe("inter")
+        expect(longestCommonPrefix(["interspecies", "interstellar", "interstate"])).toBe("inters")
     });
 
     test('returns an empty string for an empty array', () => {
