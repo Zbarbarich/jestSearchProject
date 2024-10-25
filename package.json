@@ -8,7 +8,6 @@
   "scripts": {
     "test": "jest"
   },
-   
   "name": "jestsearchproject",
   "version": "1.0.0",
   "description": "placehold",
@@ -126,6 +125,7 @@
     "jest-worker": "^29.7.0",
     "js-tokens": "^4.0.0",
     "js-yaml": "^3.14.1",
+    "jsdom": "^25.0.1",
     "jsesc": "^3.0.2",
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
